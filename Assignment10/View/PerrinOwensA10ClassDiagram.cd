@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PerrinOwensA10.Model.Person.Person">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAEAAAAABAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Model\Person\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PerrinOwensA10.Model.Address.Address">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAMAAAACAAAAAAAAAAAAAIABAAAAAA=</HashCode>
+      <FileName>Model\Address\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PerrinOwensA10.Model.Person.Staff">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAABAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Person\Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PerrinOwensA10.Model.Person.Student">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAABAAAEAEAAAAAAAAAAAAAAAAAgAAAAICA=</HashCode>
+      <FileName>Model\Person\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PerrinOwensA10.Model.Person.Teacher">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAEAAAAAAAQEAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Model\Person\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
